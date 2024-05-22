@@ -15,8 +15,8 @@ To install and run this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Average-Chief/Steam-Price-Tracker.git
+   cd Steam-Price-Tracker
    ```
 2. **Install the required libraries:**
 
