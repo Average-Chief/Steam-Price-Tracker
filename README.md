@@ -23,7 +23,7 @@ To install and run this project, follow these steps:
 Ensure you have Python installed, then install the necessary packages:
 
   ```bash
-  pip install beautifulsoup4 requests pandas
+  pip install beautifulsoup4 requests pandas smtplib
   ```
 
 3. **Usage**
